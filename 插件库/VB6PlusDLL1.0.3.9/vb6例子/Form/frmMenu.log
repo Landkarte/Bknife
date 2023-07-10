@@ -1,0 +1,6 @@
+行 53: 控件 TextBox1 的类 MSForms.TextBox 不是一个已加载的控件类。
+行 59: 属性名 VariousPropertyBits 在 TextBox1 中是无效的。
+行 60: 属性名 Size 在 TextBox1 中是无效的。
+行 62: 属性名 FontHeight 在 TextBox1 中是无效的。
+行 63: 属性名 FontCharSet 在 TextBox1 中是无效的。
+行 64: 属性名 FontPitchAndFamily 在 TextBox1 中是无效的。

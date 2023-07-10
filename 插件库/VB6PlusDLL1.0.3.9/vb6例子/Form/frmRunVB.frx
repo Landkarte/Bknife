@@ -1,0 +1,3 @@
+*FUNCTION Add(a,b)
+Add=a+b
+END FUNCTION
